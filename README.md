@@ -1,5 +1,11 @@
 # Boas-vindas ao repositório do projeto Carta Misteriosa!
 
+### README Translations:
+* [English](/README.en.md)
+* [Portuguese](/README.md)
+
+---
+
 ## 👨‍💻 O que foi desenvolvido:
 
   - Um site que gera cartas misteriosas, ou seja, dado um valor digitado em um campo de texto, apresentar as palavras com uma aparência de uma carta onde cada palavra possui uma estilização própria.
